@@ -8,8 +8,7 @@ A responsive web application built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Attendance Calculator](<img width="300" height="300" alt="Screenshot" src="https://github.com/user-attachments/assets/cf19aec1-a9df-49b5-9f13-07ed1b7b7003" />
-)
+![Attendance Calculator](Screenshot.png)
 
 ## 🚀 Features
 
